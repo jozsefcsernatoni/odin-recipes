@@ -1,0 +1,47 @@
+body{
+    background-color: burlywood;
+}
+
+h1{
+    font-family: sans-serif;
+    font-size: 24px;
+    text-align: center;
+}
+ul{
+    list-style: none;
+}
+li{
+    padding: 4px;
+}
+a{
+color: darkolivegreen;
+}
+a:link{
+    text-decoration: none;
+    
+}
+a:active{
+    text-decoration: none;
+}
+a:visited{
+    text-decoration: none;
+    
+}
+a:hover{
+    text-decoration: none;
+    font-weight: bold;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 5px solid;
+    border-color: white;
+}
+p{
+    background-color: lightblue;
+    padding: 5px;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
